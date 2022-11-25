@@ -1,0 +1,7 @@
+Applications of NLP
+google assistant 
+Alexa
+Siri
+gmail spam classifier
+
+Stemming and Lemmatization 
